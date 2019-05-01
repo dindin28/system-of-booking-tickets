@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556708826 source:c:\users\tenk\desktop\c++\homework\main.cpp
+	<windows.h>
+	<iostream>
+	<string>
+
